@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6076e0496fe0d194faeae4ed91f02f38, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  presentPrefab:
+  - {fileID: 8054411032186661649, guid: 138fa90667042f949b8ec03bdec960bd, type: 3}
+  - {fileID: 755846050691256017, guid: 4180f9a50c40cae4b991490ca4a7c66e, type: 3}
+  - {fileID: 2607860720106570512, guid: f0a0e695969f5ea458e5c023be2419a2, type: 3}
+  - {fileID: 1465074273150309257, guid: eaad4feb57dadc740b825f4239c4614b, type: 3}
+  - {fileID: 8615728722131518743, guid: 68f1873fd01cd5a4e97eb6c692e905d7, type: 3}
+  heartEffect: {fileID: 1202522996400206, guid: f87e7926fd589094b8a269e14b8bea5e,
+    type: 3}
